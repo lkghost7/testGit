@@ -22,6 +22,12 @@ public class Main {
         System.out.println("браааанч №2");
         System.out.println("браааанч №2");
         System.out.println("браааанч №2");
+        System.out.println("браааанч №3");
+        System.out.println("браааанч №3");
+        System.out.println("браааанч №3");
+        System.out.println("браааанч №3");
+        System.out.println("браааанч №3");
+        System.out.println("браааанч №3");
 
 
     }
