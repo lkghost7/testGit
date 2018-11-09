@@ -7,6 +7,12 @@ public class Branch444 {
         System.out.println("5555");
         System.out.println("5555");
         System.out.println("5555");
-        System.out.println("5555");
+        System.out.println("777");
+        System.out.println("777");
+        System.out.println("777");
+        System.out.println("777");
+        System.out.println("777");
+        System.out.println("777");
+        System.out.println("777");
     }
 }
