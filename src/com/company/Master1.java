@@ -6,6 +6,11 @@ public class Master1 {
         System.out.println("master111");
         System.out.println("master111");
         System.out.println("master111");
-        System.out.println("master111");
+        System.out.println("master222");
+        System.out.println("master222");
+        System.out.println("master222");
+        System.out.println("master222");
+        System.out.println("master222");
+        System.out.println("master222");
     }
 }
