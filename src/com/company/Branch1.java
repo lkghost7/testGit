@@ -10,6 +10,11 @@ public class Branch1 {
         System.out.println("бранч2");
         System.out.println("бранч2");
         System.out.println("бранч2");
-        System.out.println("бранч2");
+        System.out.println("бранч3");
+        System.out.println("бранч3");
+        System.out.println("бранч3");
+        System.out.println("бранч3");
+        System.out.println("бранч3");
+        System.out.println("бранч3");
     }
 }
